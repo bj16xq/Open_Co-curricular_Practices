@@ -16,3 +16,6 @@ The purpose of using these resources are to support inclusion, collaboration, an
 Resources on this repository are openly accessible. The expectation is that, should improvements be made, that they be openly shared in a similar manner.
 
 For explanations of each resource, please view [the Wiki.](https://github.com/bj16xq/Open_Co-curricular_Practices/wiki)
+
+## Related Content
+This repository consists of various open access materials to promote openness in co-curricular practices (for a theoretical background, see the [OSF page](https://osf.io/63zq8/)). For open content in other domains, please see the respective repositories: [open labour practices](https://github.com/bj16xq/Open_Labour_Practices) and [open scholarship](https://github.com/bj16xq/BJ_Open_Scholarship) (open pedagogy and open research practices).
