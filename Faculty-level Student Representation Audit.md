@@ -1,3 +1,5 @@
+*This is the preview. For the downloadable ODF file, see [here](https://github.com/bj16xq/Open_Co-curricular_Practices/blob/main/Faculty-level%20Student%20Representation%20Audit.odt))
+
 # Faculty-level Student Representation Audit
 This document outlines a process by which student leaders within a particular faculty can conduct an audit for how students are represented within programs, departments, and the entire faculty.
 
@@ -20,3 +22,10 @@ Dept = Department
 UPC = Undergraduate Program Committee
 GPC = Graduate Program Committee
 
+| Academic Unit | Representation | Club | Other Notes |
+|---|---|---|---|
+| Entire faculty | Faculty council:<br>1 UG, 1 GR |  |  |
+| Applied Disability Studies | Dept:<br>UPC:<br>GPC:<br> |  |  |
+| Economics | Dept:<br>UPC:<br>GPC:<br> |  |  |
+| Psychology | Dept:<br>UPC:<br>GPC:<br> |  |  |
+|  |  |  |  |
