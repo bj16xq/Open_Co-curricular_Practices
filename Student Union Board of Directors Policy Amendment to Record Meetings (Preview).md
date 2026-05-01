@@ -4,7 +4,7 @@
 
 **Proposed Policy language:**
 
-Each meeting of the Board of Directors shall be captured in a video recording that will be made accessible to the membership and stakeholders, except for in-camera items.
+"Each meeting of the Board of Directors shall be captured in a video recording that will be made accessible to the membership and stakeholders, except for in-camera items."
 
 **Rationale:**
 
