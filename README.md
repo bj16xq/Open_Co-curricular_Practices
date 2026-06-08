@@ -1,5 +1,5 @@
 # Open Co-curricular Practices
-This repository hosts information on and files for open co-curricular practices (OCP) and open co-curricular resources (OCR) for the purpose of promoting openness in co-curricular activities.
+This repository hosts information on and files for open co-curricular practices (OCP) and open co-curricular resources (OCR) for the purpose of promoting openness in co-curricular activities. This concept extends from the related concept of [open educational practices (OEP)](https://en.wikipedia.org/wiki/Open_educational_practices).
 
 For an overview of OCP as well as explanations of each resource in this repository, please view [the Wiki.](https://github.com/bj16xq/Open_Co-curricular_Practices/wiki)
 
