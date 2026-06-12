@@ -1,4 +1,4 @@
-*This is the preview. For the downloadable ODF file, see [here](https://github.com/bj16xq/Open-Union-Practices/blob/main/JHSC%20Rep%20Reflection%20Prompts%20v1.1.pdf)
+*This is the preview. For the downloadable ODF file, see [here](https://github.com/bj16xq/Open_Co-curricular_Practices/blob/main/Student%20Leader%20Reflection%20Guide.odt)
 
 # Student Leader Reflection Guide
 
