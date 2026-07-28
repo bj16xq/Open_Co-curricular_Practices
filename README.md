@@ -5,7 +5,8 @@ For an overview of OCP as well as explanations of each resource in this reposito
 
 ## Related Content
 For a theoretical background on OCP and the contents of this repository, see the [OSF project page](https://osf.io/63zq8/). 
+Another resource is the [WikiBook on OCP](https://en.wikibooks.org/wiki/Open_Co-Curricular_Practices).
 
-For OCP and OCR specific to the Golden Key Internation Honour Society, please see the [GK repository](https://github.com/bj16xq/GoldenKey).
+For OCP and OCR specific to honour societies (e.g., the Golden Key International Honour Society), please see the [honour societies repository](https://github.com/bj16xq/Honour-Societies).
 
 For open content in other domains, please see the respective repositories: [open practices in organised labour](https://github.com/bj16xq/Open_Labour_Practices) and [open scholarship](https://github.com/bj16xq/BJ_Open_Scholarship) (open pedagogy, open science/research, and open content for students).
