@@ -20,12 +20,17 @@
 
 ## Content
 
-Policy change can take many forms. A governance/advisory body might review:
+There are three overall ways of changing policy:
+* Amending existing policy, which can involve any combination of adding, removing, or replacing language (common)
+* Adding a brand new policy (more common in newer institutions/organizations or during transitional phases)
+* Fully removing existing policy (rare)
+
+Policy amendments can take many forms. A governance/advisory body might review:
 * Only a section of a policy.
 * An entire policy.
 * Multiple policies.
 
-Even when only one section of a policy is being changed, it is important to consider how other areas of the policy are affected
+Even when only one section of a policy is being amended, it is important to consider how other areas of the policy are affected.
 
 Many reasons for policy change exist:
 * Minor language edits for grammar/coherence, terminology updates (e.g., position titles), etc. (this is often called "housekeeping")
@@ -33,17 +38,16 @@ Many reasons for policy change exist:
 * Major or minor edits to address unforeseen problems (clarity of language or details of process) caused by a prior policy change.
 * Major edits to address new problems (e.g., artificial intelligence)
 
-When the only proposed changes are minor, then a broader consultation will not take place.
+Major changes or brand-new  often involve a lengthly When the only proposed changes are minor, then a broader consultation will typically not take place.
 
 The table below outlines the 3 main circumstances where a student rep may engage with policy change on a governance/advisory body:
 
 | | Circumstance | Purpose | Expectations of <b>Governance/Advisory Body | Ideal Role of Student Rep |
 | -- | -- | -- | -- | -- |
-| 1 | Standard/Cyclical Review or Consultation | To identify principles, concerns, ideas, or considerations to take into account for an existing policy OR a draft undergoing consultation prior to final approval | Reflect on experience, ask clarification questions to one another and the party proposing the amendments. | |
-| 2 | Evaluating Proposed Changes| This p | | |
-| 3 | Proposing Your Own Changes | | | |
+| 1 | Standard/Cyclical Review or Consultation | To identify principles, concerns, ideas, or considerations to take into account for an existing policy OR a draft undergoing consultation prior to final approval | Reflect on experience; Review evidence (data, testimony); Ask questions to one another and the party proposing the amendments. | Reflect on how the policy may affect students. |
+| 2 | Evaluating Proposed Changes| To judge proposed changes and decide for or against them. | Same as above, with a focus on making a final decision. | Ensure the group adequately considers criteria that affect students before finalizing a decision. |
+| 3 | Proposing Your Own Changes | To advance your own policy change when you notice a gap or lack of clarity and you have a thoughtful, well articulated policy change. | Same as above. | Collaborate with other stakeholders to secure support in advance. |
 
-1.	**Analyzing/critiquing existing policy:** First, when there is a cyclical review of the policy in question, and before any specific amendments are proposed, the body is expected to analyze and critique the existing policy. This circumstance serves to generate possibilities and considerations for future amendment drafting.
 2.	**Evaluating proposed amendments:** Second, when policy amendments are brought forward to the body for debate and approval.
 3.	**Proposing new policies or amendments:** Third, when observant of shortcoming or gap in policy in real time, one may contemplate targeted critiques to advocate for improvements; this may be based on one’s constituency within the organization or community.
 
