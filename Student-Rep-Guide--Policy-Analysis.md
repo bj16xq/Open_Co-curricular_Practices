@@ -12,6 +12,7 @@
 ## Background
 * Policy is a core function of educational institutions writ-large and within units (e.g., faculties, departments).
 * Likewise, policy serves an important function in student organizations (e.g., student unions, clubs, honour societies).
+* Student reps are not always prepared for or knowledgeable about policy analysis.
 * Policy language and structure are developed meticulously and iteratively.
 * This document summarizes foundational knowledge on policy analysis for student representatives.
 * Specifically, this doc explains various circumstances in which one might engage with policy and their respective analytic steps.
