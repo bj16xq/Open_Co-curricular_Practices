@@ -1,5 +1,12 @@
 # Year-End Board/Committee Report Form
 
+| | |
+| -- | -- |
+| **Creator** | Ben Johnson |
+| **Date/Version** | September 21, 2026 |
+| **Open License** | CC-BY 4.0 |
+| **Intended User** | Student union board of directors |
+| **Original Purpose** | Compiling summary of the year's activities and plans for the future |
 
 ## Background
 * A board of directors should make every reasonable effort to be transparent
