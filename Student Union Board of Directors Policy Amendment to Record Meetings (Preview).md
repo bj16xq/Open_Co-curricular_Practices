@@ -7,7 +7,6 @@
 | **Creator** | Ben Johnson |
 | **Date/Version** | June 8, 2026 |
 | **Open License** | CC-BY 4.0 |
-| **Repository Location** | [https://github.com/bj16xq/Open_Co-curricular_Practices](https://github.com/bj16xq/Open_Co-curricular_Practices) |
 | **Intended User** | Student union board of directors |
 | **Original Purpose** | Amending internal governance policy |
 
