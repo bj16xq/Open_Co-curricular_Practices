@@ -1,5 +1,13 @@
 # Guide on Student Union Hiring or Selection Processes
 
+| | |
+| -- | -- |
+| **Creator** | Ben Johnson |
+| **Date/Version** | September 24, 2026 |
+| **Open License** | CC-BY 4.0 |
+| **Intended User** | Student union |
+| **Original Purpose** | Guidance on hiring/selection for important student executive/representative positions |
+
 ## Background
 This resources outlines ideas for Student Union Hiring or Selection Process, such as for executive positions, whether paid or volunteer.
 
@@ -45,7 +53,7 @@ Proposed candidate screening process:
 
 # Helpful References:
 
-Brock Policies on Administrative Appointments:
+Brock University Policies on Administrative Appointments:
 * Academic administrator appointment [policy](https://brocku.ca/policies/wp-content/uploads/sites/94/Policy-on-the-Appointment-of-Academic-Administrators.pdf)
 * Academic administrator appointment [procedure](https://brocku.ca/policies/wp-content/uploads/sites/94/Appointment-Procedures-For-Academic-Administrators.pdf)
 * President/vice-president appointment [policy](https://brocku.ca/policies/wp-content/uploads/sites/94/Policy-on-Appointment-Reappointment-Pres-VPs.pdf)
