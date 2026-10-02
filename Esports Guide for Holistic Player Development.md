@@ -18,12 +18,12 @@ The England Football Association's 4-corner athlete development model (see Diouf
 
 This framework can be translated into esports training.
 
-|  | |
-| -- | -- |
-| **Physical** | Cardiovascular health due to heart rate demands during esport competitions. |
-| **Technical/Tactical** | |
-| **Psychological** | |
-| **Social** | |
+|  | Physical Context | In-Game Digital Context |
+| -- | -- | -- |
+| **Physical** | Cardiovascular health due to heart rate demands during esport competitions. Speed of hand/finger movements. | Speed of avatar. |
+| **Technical/Tactical** | Technical: Hand-eye coordination with remote controller. Tactical: Strategic body positioning for performance. | Technical: in-game coordinated movements. Tactical: in-game strategic movements, such as digital field/map positioning. |
+| **Psychological** | Coping with errors, resilience when losing, etc. | N/A |
+| **Social** | Sportsmanship | N/A |
 
 
 # References
